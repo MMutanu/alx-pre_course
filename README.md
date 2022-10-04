@@ -1,3 +1,1 @@
-My first readme
-
-Still testing and loving it
+my first readme
